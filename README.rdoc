@@ -1,0 +1,16 @@
+= Redmine Thumbnail Embed
+
+Thomas Getgood
+
+Last edit: Mon Dec 19 14:51:06 EST 2011
+
+== Usage
+
+This macro is just a shortcut for embedding an image and linking said image to its source.
+
+{{thumbnail(url [, width])}} will embed the image at url into the document (wiki or issue) at size width, if specified. Width defaults to 90% and can be specified in either px or %. 
+
+The alias {{tb(url [, width])}} is a shorthand for the same macro.
+
+The link has some default styling and class "redmine-thumbnaill-embed" for easily overriding these defaults. 
+
