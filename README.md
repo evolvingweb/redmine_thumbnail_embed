@@ -1,4 +1,4 @@
-= Redmine Thumbnail Embed
+# Redmine Thumbnail Embed
 
 ![](https://dl.dropbox.com/u/29440342/screenshots/KDUXKUJS-2015.09.09-12-46-05.png)
 
