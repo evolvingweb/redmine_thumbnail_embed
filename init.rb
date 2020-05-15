@@ -2,7 +2,7 @@ require 'redmine'
 
 require File.dirname(__FILE__) + '/lib/thumbnail_embed_macro.rb'
 
-Redmine::Plugin.register :redmine_thumbnails do
+Redmine::Plugin.register :redmine_thumbnail_embed do
   name "Embeded Thumbnail Plugin"
   author "Thomas Getgood"
   description "Embed thumbnail pictures as links in wiki and issue pages."
