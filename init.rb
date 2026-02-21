@@ -6,7 +6,7 @@ Redmine::Plugin.register :redmine_thumbnail_embed do
   name "Embeded Thumbnail Plugin"
   author "Thomas Getgood"
   description "Embed thumbnail pictures as links in wiki and issue pages."
-  version "0.1.0"
+  version "6.0.0"
   
   Redmine::WikiFormatting::Macros.register do
     desc = "Thumbnail embedding (tb)"
